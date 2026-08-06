@@ -6,6 +6,8 @@ Jezgro Analytics is a working system that combines sales, customer behavior, rec
 
 It is designed to support daily operational decisions: what customers buy, when they visit, how their preferences differ, which products generate margin, what stock needs replenishment, and which business processes should be adjusted.
 
+![Jezgro Analytics overview](assets/screenshots/01_home_overview_full.png)
+
 ---
 
 ## What the system does
@@ -51,6 +53,10 @@ The purpose is not only reporting. These insights are used to adjust real busine
 - preparation volumes;
 - staffing and workload planning;
 
+![Customer nationality insights](assets/screenshots/05_customer_nationality_full.png)
+
+![Service channel behavior](assets/screenshots/06_service_channel_mix_full.png)
+
 ---
 
 ## Sales and performance analytics
@@ -63,6 +69,10 @@ The purpose is not only reporting. These insights are used to adjust real busine
 - Demand patterns by time, weather, season, and calendar events.
 - Interactive navigation through analytical periods.
 
+![Period-over-period comparison](assets/screenshots/03_year_over_year_comparison_full.png)
+
+![Demand patterns](assets/screenshots/07_demand_patterns_full.png)
+
 ---
 
 ## Margin and financial reporting
@@ -72,6 +82,8 @@ The purpose is not only reporting. These insights are used to adjust real busine
 - Revenue, operating expenses, and profitability views.
 - Taxable-base and expense reporting.
 - Analysis of ingredient cost, recipe, and pricing impact.
+
+![Financial performance dashboard](assets/screenshots/02_home_dashboard_full.png)
 
 ---
 
@@ -86,6 +98,8 @@ The inventory module covers ingredients, packaging, and operating supplies.
 - Forecast of remaining stock days based on recent working-day consumption.
 - Consumption rules for operational supplies outside recipes.
 - Packaging and consumables linked to products and service channels.
+
+![Inventory control](assets/screenshots/04_inventory_full.png)
 
 ---
 
