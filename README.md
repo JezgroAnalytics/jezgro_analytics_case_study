@@ -6,7 +6,7 @@ Jezgro Analytics is a working system that combines sales, customer behavior, rec
 
 It is designed to support daily operational decisions: what customers buy, when they visit, how their preferences differ, which products generate margin, what stock needs replenishment, and which business processes should be adjusted.
 
-![Jezgro Analytics overview](assets/screenshots/01_home_overview_full.png)
+![Jezgro Analytics overview](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/01_home_overview_full.png)
 
 ---
 
