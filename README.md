@@ -111,6 +111,9 @@ SQLite operational database
 Analytical data layers
         ↓
 Interactive dashboard and operational reports
+```
+
+---
 
 ## Screenshots
 
