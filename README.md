@@ -53,10 +53,6 @@ The purpose is not only reporting. These insights are used to adjust real busine
 - preparation volumes;
 - staffing and workload planning;
 
-![Customer nationality insights](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/04_customer_nationality_full.png)
-
-![Service channel mix](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/05_service_channel_mix_full.png)
-
 ---
 
 ## Sales and performance analytics
@@ -68,10 +64,6 @@ The purpose is not only reporting. These insights are used to adjust real busine
 - Sales dynamics and cumulative growth/decline.
 - Demand patterns by time, weather, season, and calendar events.
 - Interactive navigation through analytical periods.
-
-![Year-over-year comparison](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/02_year_over_year_comparison_full.png)
-
-![Demand patterns](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/06_demand_patterns_full.png)
 
 ---
 
@@ -97,8 +89,6 @@ The inventory module covers ingredients, packaging, and operating supplies.
 - Consumption rules for operational supplies outside recipes.
 - Packaging and consumables linked to products and service channels.
 
-![Inventory control](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/03_inventory_full.png)
-
 ---
 
 ## Data processing
@@ -121,3 +111,33 @@ SQLite operational database
 Analytical data layers
         ↓
 Interactive dashboard and operational reports
+
+## Screenshots
+
+A year-over-year view compares selected periods across revenue, customer activity, and behavioral indicators.
+
+![Year-over-year comparison](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/02_year_over_year_comparison_full.png)
+
+The inventory screen combines theoretical balances, stocktakes, sales-driven consumption, limits, and replenishment signals.
+
+![Inventory control](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/03_inventory_full.png)
+
+Customer segmentation reveals differences in purchasing behavior between nationality groups.
+
+![Customer nationality insights](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/04_customer_nationality_full.png)
+
+Service-channel analysis tracks how on-site and takeaway behavior changes over time.
+
+![Service channel mix](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/05_service_channel_mix_full.png)
+
+Demand analysis identifies peak periods and supports staffing decisions.
+
+![Demand patterns](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/06_demand_patterns_full.png)
+
+The flexible explorer supports configurable time-series analysis across customer, product, and operational dimensions.
+
+![Flexible analytics explorer](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/07_flex_explorer_full.png)
+
+Weather analysis connects external conditions with sales and customer-demand patterns.
+
+![Flex weather analysis](https://raw.githubusercontent.com/JezgroAnalytics/jezgro_analytics_case_study/main/assets/screenshots/08_flex_weather_full.png)
