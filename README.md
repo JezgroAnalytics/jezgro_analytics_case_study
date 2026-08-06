@@ -1,6 +1,6 @@
 # Jezgro Analytics
 
-A high-performance, Serbia-localized customer intelligence and operations platform for coffee shop management.
+A high-performance customer intelligence and operations platform for coffee shop management, built for adaptation to local markets.
 
 Jezgro Analytics is a working system that combines sales, customer behavior, recipes, prices, inventory, expenses, weather, and calendar context into one interactive analytical environment.
 
